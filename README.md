@@ -20,6 +20,11 @@
 Пробуем к ней подключиться по ssh.
 <img src = "img/03.png" width = 100%>
 
+Проверим версию docker командой:
+```
+sudo docker --version
+```
+<img src = "img/04.png" width = 100%>
 
 ---
 ## Задание 2
